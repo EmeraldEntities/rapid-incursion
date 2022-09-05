@@ -1,0 +1,2 @@
+A tower that shoots faster, but has a limited damage and range.
+"SPRAY AND PRAY I SAY, SPRAY AND PRAY"

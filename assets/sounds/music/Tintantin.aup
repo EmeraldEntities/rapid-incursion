@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Tintantin_data" version="1.3.0" audacityversion="2.2.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="14.5336969173" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="LMMS (libsndfile-1.0.26pre5)"/>
+		<tag name="TRACKNUMBER" value="2"/>
+		<tag name="ALBUM" value="Rapid Incursion - The Official Soundtrack"/>
+		<tag name="YEAR" value="2019"/>
+		<tag name="TITLE" value="Tintantin"/>
+		<tag name="ARTIST" value="Joseph Wang"/>
+	</tags>
+	<wavetrack name="Tintantin" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3629056">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008ff.au" len="262144" min="-0.299805" max="0.259796" rms="0.047672"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00003ba.au" len="262144" min="-0.409485" max="0.314178" rms="0.076719"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000be4.au" len="262144" min="-0.392456" max="0.302948" rms="0.072929"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000f94.au" len="262144" min="-0.325714" max="0.2612" rms="0.052077"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000325.au" len="262144" min="-0.999969" max="0.999969" rms="0.176778"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000403.au" len="262144" min="-0.999969" max="0.999969" rms="0.238427"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000650.au" len="262144" min="-0.999969" max="0.999969" rms="0.242661"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0000960.au" len="262144" min="-0.999969" max="0.999969" rms="0.23622"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e00006d5.au" len="262144" min="-0.999969" max="0.999969" rms="0.246895"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000619.au" len="262144" min="-0.999969" max="0.999969" rms="0.135021"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e000044a.au" len="262144" min="-0.406708" max="0.379852" rms="0.079299"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0000934.au" len="262144" min="-0.215179" max="0.19809" rms="0.042409"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000eb9.au" len="262144" min="-0.173645" max="0.19632" rms="0.040682"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e000030c.au" len="221184" min="-0.12851" max="0.168274" rms="0.034823"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Tintantin" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3629056">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f37.au" len="262144" min="-0.245483" max="0.32547" rms="0.052732"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000057c.au" len="262144" min="-0.396881" max="0.360992" rms="0.084023"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00000e1.au" len="262144" min="-0.360016" max="0.368561" rms="0.080875"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000fb3.au" len="262144" min="-0.309998" max="0.27774" rms="0.062545"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000bff.au" len="262144" min="-0.999969" max="0.999969" rms="0.178107"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e00007cb.au" len="262144" min="-0.999969" max="0.999969" rms="0.248218"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000d2b.au" len="262144" min="-0.999969" max="0.999969" rms="0.250272"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e000025b.au" len="262144" min="-0.999969" max="0.999969" rms="0.243315"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000a80.au" len="262144" min="-0.999969" max="0.999969" rms="0.253735"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e00009cd.au" len="262144" min="-0.999969" max="0.999969" rms="0.149309"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e00000c8.au" len="262144" min="-0.63266" max="0.492981" rms="0.097955"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e00008ee.au" len="262144" min="-0.217804" max="0.256073" rms="0.047219"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e000068f.au" len="262144" min="-0.175659" max="0.199585" rms="0.044669"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0000aa8.au" len="221184" min="-0.177124" max="0.157898" rms="0.038433"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
